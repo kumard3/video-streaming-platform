@@ -4,6 +4,6 @@ import * as React from 'react';
 
 export default function Home() {
   return (
-      <div> hello word video streaming</div>
+      <div> hello word video streaming platform</div>
   );
 }
